@@ -1,0 +1,117 @@
+*{
+	font-family:montserrat, arial;
+	
+}
+
+		.topo{
+			background-image: url(../fundo1.jpg);
+			background-color:	#FFF8DC;
+			
+		}
+
+		.logo{
+			margin-left: 600px;
+		}
+
+		.mochila{
+		float:right;
+		width: 50px;
+		margin-top: 50px;
+		margin-right:20px;
+
+		}
+
+		.favoritos{
+			float:right;
+			width: 30px;
+			margin-top: 60px;
+			margin-right:60px;
+			
+			}
+
+		.perfil{
+			float:right;
+			width: 35px;
+			margin-top: 58px;
+			margin-right:20px;
+		
+		}
+		.dropdown{
+			margin-left:70px;
+			float:left;
+			font-size:22px;
+			letter-spacing:6px;
+			margin-bottom:40px;
+			margin-top:20px;
+			
+			
+		}
+		
+		.dropdown .btn{
+			color:#c79029; 
+			background-color:#FFFACD;
+			padding:10px;
+			border-radius: 50px;
+			margin-top:20px;
+		}
+		
+		
+		.dropdown-item{
+			color:#c79029;	
+		}
+		
+		.dropdown-item:hover{
+			background-color:#FFF8DC;
+			color:#c79029;
+		}
+
+		.banner{
+			margin-top: 100px;
+			/*background-color: red;*/
+			height: 800px;
+
+		}
+
+		.novidades h1{
+			color:#c79029; 
+			background-color:#FFFACD;
+			padding:10px 10px;
+			border-radius: 50px;
+			text-align: center;
+			margin-bottom: 30px;
+
+		}
+
+		.card{
+			float: left;
+			margin-right: 20px;
+			margin-left: 25px;
+			margin-bottom: 30px;
+			height: 550px;
+
+		}
+
+		.card .btn{
+			color:#c79029; 
+			background-color:#FFFACD;
+			padding:10px;
+			border-radius: 50px;
+			margin-top: 10px;
+			
+		}
+
+		.anuncios img{
+			width: 600px;
+			float:left;
+			margin-left: 50px;
+			margin-bottom: 30px;
+
+
+		}
+
+		
+
+	
+
+			
+		
